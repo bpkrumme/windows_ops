@@ -1,7 +1,0 @@
-gcc
-krb5-devel
-krb5-libs
-python3-devel
-python3.11-devel
-openssl
-dnf
